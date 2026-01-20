@@ -1,2 +1,0 @@
-<h1>Meus contatos</h1>
-<a href="/">Voltar</a>
